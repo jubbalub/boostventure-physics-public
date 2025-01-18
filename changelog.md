@@ -6,7 +6,7 @@
 - Added more airtime to jump when holding down the button
 - Turning in midair at low speeds is tighter
 - Even more ground turning adjustments
-- Added custom object layouts for 5 stages to address some weird rail booster behavior. These include:
+- Added custom object layouts for 5 stages to address some weird rail booster behavior. This feature is incompatible with stage mods, so it can be disabled in the config menu.
 -- Space Colony ARK Act 1
 -- Rail Canyon Act 1 Challenge 1
 -- Rail Canyon Act 1 Hard Challenge
