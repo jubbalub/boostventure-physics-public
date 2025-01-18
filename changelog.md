@@ -1,3 +1,18 @@
+## BoostVenture Physics 1.0
+- Added custom physics to White Space and Boss stages. They are mostly identical to stage physics, with a few differences:
+-- Boost speed is reduced from 60 to 50 in White Space
+-- Boost speed is reduced from 60 to 45 in Boss stages
+-- Wings and Surf are unchanged in White Space and Boss stages
+- Added more airtime to jump when holding down the button
+- Turning in midair at low speeds is tighter
+- Even more ground turning adjustments
+- Added custom object layouts for 5 stages to address some weird rail booster behavior. These include:
+-- Space Colony ARK Act 1
+-- Rail Canyon Act 1 Challenge 1
+-- Rail Canyon Act 1 Hard Challenge
+-- Sunset Heights Act 1
+-- Radical Highway Act 2
+
 ## BoostVenture Physics 0.3.1
 - Updated to latest game version
 
