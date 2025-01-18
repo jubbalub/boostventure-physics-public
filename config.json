@@ -1,0 +1,23 @@
+{
+   "Groups": [
+		{
+			"Name": "Main",
+			"DisplayName": "Gameplay",
+			"Elements": [
+				{
+					"Name": "IncludeDir1",
+					"DisplayName": "Object edits",
+					"Description": [
+						"Enables edited .gedit files to fix some minor issues with rail boosters.",
+						"Set this to False if you want to use stage mods.",
+						"",
+						"Default: True"
+					],
+					"Type": "bool",
+					"DefaultValue": "true"
+				}
+			]
+		}
+   ],
+   "IniFile": "mod.ini"
+}
