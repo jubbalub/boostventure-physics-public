@@ -1,2 +1,9 @@
 add mod.ini
+add config.json
 add main/raw/character/playercommon.pac
+add object_edits/raw/gedit/w01a11_gedit.pac
+add object_edits/raw/gedit/w02c12_gedit.pac
+add object_edits/raw/gedit/w02h11_gedit.pac
+add object_edits/raw/gedit/w04a10_gedit.pac
+add object_edits/raw/gedit/w06a20_gedit.pac
+remove raw/character/playercommon.pac
